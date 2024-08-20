@@ -1,6 +1,6 @@
 +++
 title = 'Introductory Post'
-date = 2024-08-01T21:17:09+09:00
+date = 2024-07-20T11:34:12+09:00
 draft = false
 type = "post"
 description = "Just me saying hi to everyone."

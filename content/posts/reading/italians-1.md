@@ -1,6 +1,6 @@
 +++
 title = 'Starting my journey into Italian literature'
-date = 2024-07-20T11:34:12+09:00
+date = 2024-08-01T21:17:09+09:00
 draft = false
 description = "Long story short, I have decided to read at least ten books by several Italian writers and turn the casual reading into a project (well, sort of)."
 image = "/images/posts/1s.webp"
