@@ -9,18 +9,18 @@
     <lastBuildDate>Thu, 01 Aug 2024 21:17:09 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introductory Post</title>
-      <link>http://localhost:1313/posts/introductory-post/</link>
-      <pubDate>Thu, 01 Aug 2024 21:17:09 +0900</pubDate>
-      <guid>http://localhost:1313/posts/introductory-post/</guid>
-      <description>Let this introductory post be a dialog between me and me.&#xA;« Why make a blog in the first instance? » Because creating things is fun. I spent hours on YouTube, Google, and Chat GPT to build this blog with Hugo, HTML, CSS, and JavaScript. I&amp;rsquo;ve learned so many new amazing things! I will write in English, which is not my native language, so I&amp;rsquo;ll exercise my writing skills. I want to learn how to write correctly and clearly.</description>
-    </item>
-    <item>
       <title>Starting my journey into Italian literature</title>
       <link>http://localhost:1313/posts/reading/italians-1/</link>
-      <pubDate>Sat, 20 Jul 2024 11:34:12 +0900</pubDate>
+      <pubDate>Thu, 01 Aug 2024 21:17:09 +0900</pubDate>
       <guid>http://localhost:1313/posts/reading/italians-1/</guid>
       <description>Around two years ago, I stumbled on a book called &amp;ldquo;The Tartar Steppe&amp;rdquo; by Dino Buzzatti. This book became my starting point in this journey. I had downloaded it but then left the file for half a year. I finally started reading it in July 2023, and I was absolutely in love with it. Then I also enjoyed &amp;ldquo;The Secret of the Old Woods&amp;rdquo; by the same author.&#xA;When I came to live and work Kyoto, I met an Italian colleague.</description>
+    </item>
+    <item>
+      <title>Introductory Post</title>
+      <link>http://localhost:1313/posts/introductory-post/</link>
+      <pubDate>Sat, 20 Jul 2024 11:34:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/introductory-post/</guid>
+      <description>Let this introductory post be a dialog between me and me.&#xA;« Why make a blog in the first instance? » Because creating things is fun. I spent hours on YouTube, Google, and Chat GPT to build this blog with Hugo, HTML, CSS, and JavaScript. I&amp;rsquo;ve learned so many new amazing things! I will write in English, which is not my native language, so I&amp;rsquo;ll exercise my writing skills. I want to learn how to write correctly and clearly.</description>
     </item>
     <item>
       <title> » Mon siécle, ma jeunesse, mes amis et amies «</title>

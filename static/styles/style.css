@@ -545,6 +545,12 @@ body.light .singleContent a:hover{
     gap: 10px;
     padding: 10px;
 }
+
+@media (max-width: 24.375rem){
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    }
+}
   
 .gallery-item {
     position: relative;
@@ -583,6 +589,12 @@ body.light .singleContent a:hover{
     max-height: 90%;
     gap: 20px;
     align-items: center;
+}
+
+@media (max-width: 40rem){
+    .lightbox-content{
+        flex-direction: column;
+    }
 }
   
 .lightbox img {
