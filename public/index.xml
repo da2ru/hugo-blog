@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan`s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Dan`s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 21:17:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introductory Post</title>
+      <link>http://localhost:1313/posts/introductory-post/</link>
+      <pubDate>Thu, 01 Aug 2024 21:17:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/introductory-post/</guid>
+      <description>Let this introductory post be a dialog between me and me.&#xA;« Why make a blog in the first instance? » Because creating things is fun. I spent hours on YouTube, Google, and Chat GPT to build this blog with Hugo, HTML, CSS, and JavaScript. I&amp;rsquo;ve learned so many new amazing things! I will write in English, which is not my native language, so I&amp;rsquo;ll exercise my writing skills. I want to learn how to write correctly and clearly.</description>
+    </item>
+    <item>
+      <title>Starting my journey into Italian literature</title>
+      <link>http://localhost:1313/posts/reading/italians-1/</link>
+      <pubDate>Sat, 20 Jul 2024 11:34:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/reading/italians-1/</guid>
+      <description>Around two years ago, I stumbled on a book called &amp;ldquo;The Tartar Steppe&amp;rdquo; by Dino Buzzatti. This book became my starting point in this journey. I had downloaded it but then left the file for half a year. I finally started reading it in July 2023, and I was absolutely in love with it. Then I also enjoyed &amp;ldquo;The Secret of the Old Woods&amp;rdquo; by the same author.&#xA;When I came to live and work Kyoto, I met an Italian colleague.</description>
+    </item>
+    <item>
+      <title> » Mon siécle, ma jeunesse, mes amis et amies «</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>My name is Dan, here I&amp;rsquo;m sharing funny and sad things I experienced, updates on my hobbies (reading, Excel and data visualization, movies, cooking, hiking and cycling, etc.), and so on.&#xA;I don’t like labeling myself. In short, I am 25 y. o., was brought up in a small town in Western Siberia, Russia. I&amp;rsquo;ve spent around three years of my life abroad. I studied East Asian history and Japanese language at university.</description>
+    </item>
+    <item>
+      <title>A tree</title>
+      <link>http://localhost:1313/photos/photo_024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baraba Steppe</title>
+      <link>http://localhost:1313/photos/photo_010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beach girl</title>
+      <link>http://localhost:1313/photos/photo_023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blossom</title>
+      <link>http://localhost:1313/photos/photo_027/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_027/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christmas tree at my granny&#39;s</title>
+      <link>http://localhost:1313/photos/photo_001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cows at the bus stop</title>
+      <link>http://localhost:1313/photos/photo_019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dabbing in kimonos</title>
+      <link>http://localhost:1313/photos/photo_002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_002/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family photos</title>
+      <link>http://localhost:1313/photos/photo_018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golden autumn</title>
+      <link>http://localhost:1313/photos/photo_011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_011/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graffiti on a cafeteria wall</title>
+      <link>http://localhost:1313/photos/photo_004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Just me in a grocery store</title>
+      <link>http://localhost:1313/photos/photo_006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me</title>
+      <link>http://localhost:1313/photos/photo_026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me on the ice of the Gulf of Finland</title>
+      <link>http://localhost:1313/photos/photo_014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me touching a palm tree</title>
+      <link>http://localhost:1313/photos/photo_025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No stylist</title>
+      <link>http://localhost:1313/photos/photo_022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ob river embankment in winter</title>
+      <link>http://localhost:1313/photos/photo_012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On a ship cruising at Ob reservoir</title>
+      <link>http://localhost:1313/photos/photo_008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pastorale</title>
+      <link>http://localhost:1313/photos/photo_007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snow covering palm trees</title>
+      <link>http://localhost:1313/photos/photo_009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Some greenery on a sunny day</title>
+      <link>http://localhost:1313/photos/photo_005/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring in Siberia</title>
+      <link>http://localhost:1313/photos/photo_017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Street market</title>
+      <link>http://localhost:1313/photos/photo_015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strolling around</title>
+      <link>http://localhost:1313/photos/photo_016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Last Judjment</title>
+      <link>http://localhost:1313/photos/photo_013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tsam costume</title>
+      <link>http://localhost:1313/photos/photo_020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ying Yan</title>
+      <link>http://localhost:1313/photos/photo_003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Хий морин (prayer flags)</title>
+      <link>http://localhost:1313/photos/photo_021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_021/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts about Mongolia on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/mongolia/</link>
+    <description>Recent content in Posts about Mongolia on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 20:13:25 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/mongolia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aglag</title>
+      <link>http://localhost:1313/posts/mongolia/aglag/</link>
+      <pubDate>Wed, 24 Jul 2024 20:13:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/mongolia/aglag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ub to Sainshand</title>
+      <link>http://localhost:1313/posts/mongolia/ub-to-sainshand/</link>
+      <pubDate>Wed, 24 Jul 2024 20:13:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/mongolia/ub-to-sainshand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mongolian Food</title>
+      <link>http://localhost:1313/posts/mongolia/mongolian-food/</link>
+      <pubDate>Wed, 24 Jul 2024 20:12:36 +0900</pubDate>
+      <guid>http://localhost:1313/posts/mongolia/mongolian-food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploring Ub</title>
+      <link>http://localhost:1313/posts/mongolia/exploring-ub/</link>
+      <pubDate>Wed, 24 Jul 2024 20:12:22 +0900</pubDate>
+      <guid>http://localhost:1313/posts/mongolia/exploring-ub/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

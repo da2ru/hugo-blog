@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Dan`s Blog</title>
+    <link>http://localhost:1313/categories/reading/</link>
+    <description>Recent content in Reading on Dan`s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jul 2024 11:34:12 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting my journey into Italian literature</title>
+      <link>http://localhost:1313/posts/reading/italians-1/</link>
+      <pubDate>Sat, 20 Jul 2024 11:34:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/reading/italians-1/</guid>
+      <description>Around two years ago, I stumbled on a book called &amp;ldquo;The Tartar Steppe&amp;rdquo; by Dino Buzzatti. This book became my starting point in this journey. I had downloaded it but then left the file for half a year. I finally started reading it in July 2023, and I was absolutely in love with it. Then I also enjoyed &amp;ldquo;The Secret of the Old Woods&amp;rdquo; by the same author.&#xA;When I came to live and work Kyoto, I met an Italian colleague.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Dan`s Blog</title>
+    <link>http://localhost:1313/categories/general/</link>
+    <description>Recent content in General on Dan`s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 21:17:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introductory Post</title>
+      <link>http://localhost:1313/posts/introductory-post/</link>
+      <pubDate>Thu, 01 Aug 2024 21:17:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/introductory-post/</guid>
+      <description>Let this introductory post be a dialog between me and me.&#xA;« Why make a blog in the first instance? » Because creating things is fun. I spent hours on YouTube, Google, and Chat GPT to build this blog with Hugo, HTML, CSS, and JavaScript. I&amp;rsquo;ve learned so many new amazing things! I will write in English, which is not my native language, so I&amp;rsquo;ll exercise my writing skills. I want to learn how to write correctly and clearly.</description>
+    </item>
+  </channel>
+</rss>

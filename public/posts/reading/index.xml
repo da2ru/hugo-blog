@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Reading on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/reading/</link>
+    <description>Recent content in Posts on Reading on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 14:35:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Italians 2</title>
+      <link>http://localhost:1313/posts/reading/italians-2/</link>
+      <pubDate>Wed, 24 Jul 2024 14:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading/italians-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italians 4 Final</title>
+      <link>http://localhost:1313/posts/reading/italians-4-final/</link>
+      <pubDate>Wed, 24 Jul 2024 20:10:45 +0900</pubDate>
+      <guid>http://localhost:1313/posts/reading/italians-4-final/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italians P3</title>
+      <link>http://localhost:1313/posts/reading/italians-3/</link>
+      <pubDate>Wed, 24 Jul 2024 20:10:07 +0900</pubDate>
+      <guid>http://localhost:1313/posts/reading/italians-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starting my journey into Italian literature</title>
+      <link>http://localhost:1313/posts/reading/italians-1/</link>
+      <pubDate>Sat, 20 Jul 2024 11:34:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/reading/italians-1/</guid>
+      <description>Around two years ago, I stumbled on a book called &amp;ldquo;The Tartar Steppe&amp;rdquo; by Dino Buzzatti. This book became my starting point in this journey. I had downloaded it but then left the file for half a year. I finally started reading it in July 2023, and I was absolutely in love with it. Then I also enjoyed &amp;ldquo;The Secret of the Old Woods&amp;rdquo; by the same author.&#xA;When I came to live and work Kyoto, I met an Italian colleague.</description>
+    </item>
+  </channel>
+</rss>

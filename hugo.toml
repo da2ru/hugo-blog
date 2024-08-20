@@ -1,0 +1,16 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Dan`s Blog'
+
+paginate = 5
+
+[params]
+    description = "Blog about my life."
+    Headshot = "/images/headshot.jpeg"
+    avatar = "images/avatar.webp"
+    
+
+[taxonomies]
+    category = "categories"
+    author = "authors"
+    image = "images"
