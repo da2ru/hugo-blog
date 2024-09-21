@@ -6,7 +6,7 @@ paginate = 5
 
 [params]
     description = "Blog about my life."
-    Headshot = "/images/headshot.jpeg"
+    Headshot = "/images/portrait.svg"
     avatar = "images/avatar.webp"
     
 

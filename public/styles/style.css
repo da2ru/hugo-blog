@@ -344,22 +344,21 @@ body.light .tag-cloud-item:hover {
     justify-content: center;
 }
 
-.headshot {
+#headshot {
     display: flex;
     align-items: center;
-    max-width: 17rem;
+    max-width: 15rem;
     border-radius: 50%;
     object-fit: cover;
-    /* border: 5px solid; */
-}
-/* 
-body.headshot {
-    border: 5px solid var(--light);
 }
 
-body.light .headshot {
-    border: 5px solid var(--dark);
-} */
+#path0 {
+    fill: #3f2f1f;
+}
+
+body.light #path0 {
+    fill: #f3f0e7;
+}
 
 .aboutContent p,
 .aboutContent h1,
