@@ -1,7 +1,7 @@
 +++
 title = 'One Year in Kyoto'
 date = 2024-11-07T16:00:31+09:00
-draft = true
+draft = false
 type = "post"
 description = "My reflections after living in the city for a bit more than one year. Mostly ranting, I think... But this city is pretty good actually."
 image = ""
