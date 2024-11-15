@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kyoto on My New Hugo Site</title>
+    <title>Kyoto on Dan`s Blog</title>
     <link>http://localhost:1313/categories/kyoto/</link>
-    <description>Recent content in Kyoto on My New Hugo Site</description>
+    <description>Recent content in Kyoto on Dan`s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jul 2024 20:14:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 16:00:31 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/kyoto/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ode to Kamogawa</title>
-      <link>http://localhost:1313/posts/kyoto/ode-to-kamogawa/</link>
-      <pubDate>Wed, 24 Jul 2024 20:14:27 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyoto/ode-to-kamogawa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fav Temples</title>
-      <link>http://localhost:1313/posts/kyoto/fav-temples/</link>
-      <pubDate>Wed, 24 Jul 2024 20:14:07 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyoto/fav-temples/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fav Parks</title>
-      <link>http://localhost:1313/posts/kyoto/fav-parks/</link>
-      <pubDate>Wed, 24 Jul 2024 20:13:55 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyoto/fav-parks/</guid>
-      <description></description>
+      <title>One Year in Kyoto</title>
+      <link>http://localhost:1313/posts/kyoto/one-year-in-kyoto/</link>
+      <pubDate>Thu, 07 Nov 2024 16:00:31 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyoto/one-year-in-kyoto/</guid>
+      <description>One year has passed since I came to Japan this time, and I&amp;rsquo;ve spent the whole year in Kyoto. I believe this gives me the right to summarize my impressions of the city, as I don’t see it merely as a tourist or a temporary visitor. It’s been a good year that’s finally brought some healthy routine and stability into my life, and without a doubt, Kyoto has contributed to that.</description>
     </item>
   </channel>
 </rss>

@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-08-01T21:17:09+09:00</lastmod>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-08-01T21:17:09+09:00</lastmod>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/dan-sokolov/</loc>
-    <lastmod>2024-08-01T21:17:09+09:00</lastmod>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-01T21:17:09+09:00</lastmod>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/italy/</loc>
-    <lastmod>2024-08-01T21:17:09+09:00</lastmod>
+    <loc>http://localhost:1313/categories/kyoto/</loc>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/life/</loc>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kyoto/one-year-in-kyoto/</loc>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-07T16:00:31+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/italy/</loc>
     <lastmod>2024-08-01T21:17:09+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/reading/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2024-07-20T11:34:12+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/introductory-post/</loc>
-    <lastmod>2024-07-20T11:34:12+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/life/</loc>
     <lastmod>2024-07-20T11:34:12+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
