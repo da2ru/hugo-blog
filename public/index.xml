@@ -34,13 +34,20 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>My name is Dan, here I&amp;rsquo;m sharing funny and sad things I experienced, updates on my hobbies (reading, Excel and data visualization, movies, cooking, hiking and cycling, etc.), and so on.&#xA;I don’t like labeling myself. In short, I am 25 y. o., was brought up in a small town in Western Siberia, Russia. I&amp;rsquo;ve spent around three years of my life abroad. I studied East Asian history and Japanese language at university.</description>
+      <description>Hi! I&amp;rsquo;m Dan, here I just share my thoughts about stuff (I wish I&amp;rsquo;d do it much more regularly). A 26 y. o. guy brought up in a small town in Western Siberia, Russia, at this point I&amp;rsquo;ve spent around four years of my life abroad. Now I live and work in Kansai, Japan.&#xA;Here is my Goodreads (updated regularly), and Lastfm, which I don&amp;rsquo;t update anymore.</description>
     </item>
     <item>
       <title>A tree</title>
       <link>http://localhost:1313/photos/photo_024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photos/photo_024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autumn Leaves</title>
+      <link>http://localhost:1313/photos/photo_011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_011/</guid>
       <description></description>
     </item>
     <item>
@@ -72,10 +79,17 @@
       <description></description>
     </item>
     <item>
-      <title>Cows at the bus stop</title>
+      <title>Cows waiting for a bus</title>
       <link>http://localhost:1313/photos/photo_019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photos/photo_019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cruising</title>
+      <link>http://localhost:1313/photos/photo_008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_008/</guid>
       <description></description>
     </item>
     <item>
@@ -86,17 +100,17 @@
       <description></description>
     </item>
     <item>
+      <title>Dan the Explorer</title>
+      <link>http://localhost:1313/photos/photo_016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/photo_016/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Family photos</title>
       <link>http://localhost:1313/photos/photo_018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photos/photo_018/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golden autumn</title>
-      <link>http://localhost:1313/photos/photo_011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_011/</guid>
       <description></description>
     </item>
     <item>
@@ -121,13 +135,6 @@
       <description></description>
     </item>
     <item>
-      <title>Me on the ice of the Gulf of Finland</title>
-      <link>http://localhost:1313/photos/photo_014/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_014/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Me touching a palm tree</title>
       <link>http://localhost:1313/photos/photo_025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -142,17 +149,10 @@
       <description></description>
     </item>
     <item>
-      <title>Ob river embankment in winter</title>
+      <title>Ob river promenade</title>
       <link>http://localhost:1313/photos/photo_012/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photos/photo_012/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>On a ship cruising at Ob reservoir</title>
-      <link>http://localhost:1313/photos/photo_008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_008/</guid>
       <description></description>
     </item>
     <item>
@@ -170,13 +170,6 @@
       <description></description>
     </item>
     <item>
-      <title>Some greenery on a sunny day</title>
-      <link>http://localhost:1313/photos/photo_005/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_005/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Spring in Siberia</title>
       <link>http://localhost:1313/photos/photo_017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -191,17 +184,10 @@
       <description></description>
     </item>
     <item>
-      <title>Strolling around</title>
-      <link>http://localhost:1313/photos/photo_016/</link>
+      <title>Trees on a sunny day</title>
+      <link>http://localhost:1313/photos/photo_005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_016/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Last Judjment</title>
-      <link>http://localhost:1313/photos/photo_013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_013/</guid>
+      <guid>http://localhost:1313/photos/photo_005/</guid>
       <description></description>
     </item>
     <item>

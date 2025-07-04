@@ -9,23 +9,30 @@
     <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A tree</title>
-      <link>http://localhost:1313/photos/photo_024/</link>
+      <link>http://localhost:1313/photos/katsuragawatree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_024/</guid>
+      <guid>http://localhost:1313/photos/katsuragawatree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autumn Leaves</title>
+      <link>http://localhost:1313/photos/autumnleaves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/autumnleaves/</guid>
       <description></description>
     </item>
     <item>
       <title>Baraba Steppe</title>
-      <link>http://localhost:1313/photos/photo_010/</link>
+      <link>http://localhost:1313/photos/barabasteppe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_010/</guid>
+      <guid>http://localhost:1313/photos/barabasteppe/</guid>
       <description></description>
     </item>
     <item>
       <title>Beach girl</title>
-      <link>http://localhost:1313/photos/photo_023/</link>
+      <link>http://localhost:1313/photos/beachgirl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_023/</guid>
+      <guid>http://localhost:1313/photos/beachgirl/</guid>
       <description></description>
     </item>
     <item>
@@ -37,51 +44,58 @@
     </item>
     <item>
       <title>Christmas tree at my granny&#39;s</title>
-      <link>http://localhost:1313/photos/photo_001/</link>
+      <link>http://localhost:1313/photos/christmastree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_001/</guid>
+      <guid>http://localhost:1313/photos/christmastree/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cows at the bus stop</title>
-      <link>http://localhost:1313/photos/photo_019/</link>
+      <title>Cows waiting for a bus</title>
+      <link>http://localhost:1313/photos/cowsbus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_019/</guid>
+      <guid>http://localhost:1313/photos/cowsbus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cruising</title>
+      <link>http://localhost:1313/photos/crusising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/crusising/</guid>
       <description></description>
     </item>
     <item>
       <title>Dabbing in kimonos</title>
-      <link>http://localhost:1313/photos/photo_002/</link>
+      <link>http://localhost:1313/photos/dab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_002/</guid>
+      <guid>http://localhost:1313/photos/dab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dan the Explorer</title>
+      <link>http://localhost:1313/photos/dantheexplorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/dantheexplorer/</guid>
       <description></description>
     </item>
     <item>
       <title>Family photos</title>
-      <link>http://localhost:1313/photos/photo_018/</link>
+      <link>http://localhost:1313/photos/famphotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_018/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golden autumn</title>
-      <link>http://localhost:1313/photos/photo_011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_011/</guid>
+      <guid>http://localhost:1313/photos/famphotos/</guid>
       <description></description>
     </item>
     <item>
       <title>Graffiti on a cafeteria wall</title>
-      <link>http://localhost:1313/photos/photo_004/</link>
+      <link>http://localhost:1313/photos/graffiti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_004/</guid>
+      <guid>http://localhost:1313/photos/graffiti/</guid>
       <description></description>
     </item>
     <item>
       <title>Just me in a grocery store</title>
-      <link>http://localhost:1313/photos/photo_006/</link>
+      <link>http://localhost:1313/photos/grocerystore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_006/</guid>
+      <guid>http://localhost:1313/photos/grocerystore/</guid>
       <description></description>
     </item>
     <item>
@@ -92,108 +106,87 @@
       <description></description>
     </item>
     <item>
-      <title>Me on the ice of the Gulf of Finland</title>
-      <link>http://localhost:1313/photos/photo_014/</link>
+      <title>Me touching a palm tree</title>
+      <link>http://localhost:1313/photos/mepalmtree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_014/</guid>
+      <guid>http://localhost:1313/photos/mepalmtree/</guid>
       <description></description>
     </item>
     <item>
-      <title>Me touching a palm tree</title>
-      <link>http://localhost:1313/photos/photo_025/</link>
+      <title>Michigan</title>
+      <link>http://localhost:1313/photos/michigan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_025/</guid>
+      <guid>http://localhost:1313/photos/michigan/</guid>
       <description></description>
     </item>
     <item>
       <title>No stylist</title>
-      <link>http://localhost:1313/photos/photo_022/</link>
+      <link>http://localhost:1313/photos/nostylist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_022/</guid>
+      <guid>http://localhost:1313/photos/nostylist/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ob river embankment in winter</title>
-      <link>http://localhost:1313/photos/photo_012/</link>
+      <title>Ob river promenade</title>
+      <link>http://localhost:1313/photos/obriverpromenade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_012/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>On a ship cruising at Ob reservoir</title>
-      <link>http://localhost:1313/photos/photo_008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_008/</guid>
+      <guid>http://localhost:1313/photos/obriverpromenade/</guid>
       <description></description>
     </item>
     <item>
       <title>Pastorale</title>
-      <link>http://localhost:1313/photos/photo_007/</link>
+      <link>http://localhost:1313/photos/pastorale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_007/</guid>
+      <guid>http://localhost:1313/photos/pastorale/</guid>
       <description></description>
     </item>
     <item>
       <title>Snow covering palm trees</title>
-      <link>http://localhost:1313/photos/photo_009/</link>
+      <link>http://localhost:1313/photos/snowpalms1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_009/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Some greenery on a sunny day</title>
-      <link>http://localhost:1313/photos/photo_005/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_005/</guid>
+      <guid>http://localhost:1313/photos/snowpalms1/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring in Siberia</title>
-      <link>http://localhost:1313/photos/photo_017/</link>
+      <link>http://localhost:1313/photos/springsiberia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_017/</guid>
+      <guid>http://localhost:1313/photos/springsiberia/</guid>
       <description></description>
     </item>
     <item>
       <title>Street market</title>
-      <link>http://localhost:1313/photos/photo_015/</link>
+      <link>http://localhost:1313/photos/streetmarket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_015/</guid>
+      <guid>http://localhost:1313/photos/streetmarket/</guid>
       <description></description>
     </item>
     <item>
-      <title>Strolling around</title>
-      <link>http://localhost:1313/photos/photo_016/</link>
+      <title>Trees on a sunny day</title>
+      <link>http://localhost:1313/photos/trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_016/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Last Judjment</title>
-      <link>http://localhost:1313/photos/photo_013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_013/</guid>
+      <guid>http://localhost:1313/photos/trees/</guid>
       <description></description>
     </item>
     <item>
       <title>Tsam costume</title>
-      <link>http://localhost:1313/photos/photo_020/</link>
+      <link>http://localhost:1313/photos/tsam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_020/</guid>
+      <guid>http://localhost:1313/photos/tsam/</guid>
       <description></description>
     </item>
     <item>
       <title>Ying Yan</title>
-      <link>http://localhost:1313/photos/photo_003/</link>
+      <link>http://localhost:1313/photos/yingyan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_003/</guid>
+      <guid>http://localhost:1313/photos/yingyan/</guid>
       <description></description>
     </item>
     <item>
       <title>Хий морин (prayer flags)</title>
-      <link>http://localhost:1313/photos/photo_021/</link>
+      <link>http://localhost:1313/photos/khiimorin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/photo_021/</guid>
+      <guid>http://localhost:1313/photos/khiimorin/</guid>
       <description></description>
     </item>
   </channel>

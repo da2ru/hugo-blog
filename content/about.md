@@ -4,8 +4,7 @@ layout = "about"
 description = ""
 +++
 
-My name is Dan, here I'm sharing funny and sad things I experienced, updates on my hobbies (reading, Excel and data visualization, movies, cooking, hiking and cycling, etc.), and so on. 
+Hi! I'm Dan, here I just share my thoughts about stuff (I wish I'd do it much more regularly).
+A 26 y. o. guy brought up in a small town in Western Siberia, Russia, at this point I've spent around four years of my life abroad. Now I live and work in Kansai, Japan.
 
-I don’t like labeling myself. In short, I am 25 y. o., was brought up in a small town in Western Siberia, Russia. I've spent around three years of my life abroad. I studied East Asian history and Japanese language at university. Currently, I am working at a hotel in Kyoto, doing something more than a front desk agent and less than a concierge.
-
-Here is my [Goodreads](https://www.goodreads.com/kimjonyung) (updated regularly), and [Lastfm](https://www.last.fm/user/kinjonyung) , which I don't update anymore.
+Here is my [Goodreads](https://www.goodreads.com/kimjonyung) (updated regularly), and [Lastfm](https://www.last.fm/user/kinjonyung), which I don't update anymore.

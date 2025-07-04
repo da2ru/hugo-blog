@@ -1,9 +1,9 @@
 +++
 title = "Me"
 date = "June, 2021"
-order = 26
+order = 15
 type = "gallery-photo"
 image = "photo_026.jpeg"
 location = "Omsk Oblast"
-comment = "With my wife and parents I went to the village where my grandparents live. Grand-dad was still alive, nature around was beautiful as always and it seemed that everything is going to be alright forever. I kinda miss this feeling."
+comment = "I had just graduated from uni and didn’t really know what to do next. It felt like a pretty turbulent period, to be honest. Looking back on those days now, I realize it was actually a peaceful time. Granddad was still alive. I was showing my wife the village where I spent every summer as a kid. It’s hard not to be nostalgic about that time."
 +++
